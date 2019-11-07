@@ -7,7 +7,7 @@ from flask_jwt_extended import (
     get_jwt_identity,
     jwt_required,
     get_raw_jwt,
-///marwmalow 
+///Marshmallow implementation
 )
 from models.user import UserModel
 from blacklist import BLACKLIST
